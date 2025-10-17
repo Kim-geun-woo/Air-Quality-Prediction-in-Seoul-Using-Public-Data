@@ -97,7 +97,7 @@
 
 [![발표자료 확인](https://github.com/Kim-geun-woo/Air-Quality-Prediction-in-Seoul-Using-Public-Data/raw/main/images/ppt_Air-Quality-Prediction-in-Seoul-Using-Public-Data.png)](https://github.com/Kim-geun-woo/Air-Quality-Prediction-in-Seoul-Using-Public-Data/blob/main/docs/Air-Quality-Prediction-in-Seoul-Using-Public-Data.pdf)
 
-> 📌 썸네일을 클릭하면 PDF GitHub 페이지에서 바로 확인할 수 있습니다.
+> 📌 썸네일을 클릭하면 발표자료를 바로 확인할 수 있습니다.
 
 ---
 
