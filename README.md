@@ -81,8 +81,9 @@
 ### 📌 예측 결과 시각화
 - Gradient Boosting 모델의 예측값(predict)과 실제값(actual) 시각화  
 - 전반적인 미세먼지 농도 변화 추세를 성공적으로 예측
-- 
+  
 ![예측 결과 시각화](https://github.com/Kim-geun-woo/Air-Quality-Prediction-in-Seoul-Using-Public-Data/raw/main/images/GradientBoosting_visualization.png)
+
   
 ### 📌 Feature Importances (Gradient Boosting)
 - PM10 (현재 시점 미세먼지)이 가장 중요한 변수  
