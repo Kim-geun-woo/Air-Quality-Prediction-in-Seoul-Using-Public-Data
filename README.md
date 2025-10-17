@@ -1,4 +1,4 @@
-# 🌫️ 공공데이터를 활용한 서울 지역 미세먼지 농도 예측
+# 💨 공공데이터를 활용한 서울 지역 미세먼지 농도 예측
 
 본 프로젝트는 **AIVLE AI 개발자 과정 1차 미니 프로젝트**로, 서울 지역 미세먼지(PM10) 농도를 예측하는 **머신러닝 기반 예측 모델** 개발 사례입니다.  
 공공 데이터를 활용하여 데이터 전처리, 특성 공학, 모델링, 성능 평가까지 **머신러닝 전반의 파이프라인**을 경험했습니다.
@@ -8,7 +8,7 @@
 ## 📌 프로젝트 개요
 
 - **목표**: 서울 지역 미세먼지 데이터와 기상 데이터를 활용하여, 1시간 후 PM10 농도 예측 모델 개발  
-- **진행 기간**: (예: 2024.08 ~ 2024.09)  
+- **진행 기간**: 2025.10.15  
 - **참여 인원**: 총 7명
 
 ---
@@ -80,13 +80,15 @@
 
 ### 📌 예측 결과 시각화
 - Gradient Boosting 모델의 예측값(predict)과 실제값(actual) 시각화  
-- 전반적인 미세먼지 농도 변화 추세를 성공적으로 예측  
-- *(GitHub에 이미지 업로드 후 링크 교체 필요)*
+- 전반적인 미세먼지 농도 변화 추세를 성공적으로 예측
 - 
+![예측 결과 시각화](https://github.com/Kim-geun-woo/Air-Quality-Prediction-in-Seoul-Using-Public-Data/raw/main/images/GradientBoosting_visualization.png)
+  
 ### 📌 Feature Importances (Gradient Boosting)
 - PM10 (현재 시점 미세먼지)이 가장 중요한 변수  
-- PM10_lag1, PM25, hour 등도 예측 영향력 확인  
-- *(GitHub에 이미지 업로드 후 링크 교체 필요)*
+- PM10_lag1, PM25, hour 등도 예측 영향력 확인
+  
+![Feature Importances](https://github.com/Kim-geun-woo/Air-Quality-Prediction-in-Seoul-Using-Public-Data/raw/main/images/GradientBoosting_feature_importances.png)
 
 ---
 
@@ -95,7 +97,6 @@
 [![발표자료 확인](https://github.com/Kim-geun-woo/Air-Quality-Prediction-in-Seoul-Using-Public-Data/raw/main/images/ppt_Air-Quality-Prediction-in-Seoul-Using-Public-Data.png)](https://github.com/Kim-geun-woo/Air-Quality-Prediction-in-Seoul-Using-Public-Data/blob/main/docs/Air-Quality-Prediction-in-Seoul-Using-Public-Data.pdf)
 
 > 📌 썸네일을 클릭하면 PDF GitHub 페이지에서 바로 확인할 수 있습니다.
-
 
 ---
 
